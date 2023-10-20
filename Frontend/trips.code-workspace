@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Andromeda Italic Bordered",
+		"workbench.preferredHighContrastLightColorTheme": "Bearded Theme Void"
+	}
+}
